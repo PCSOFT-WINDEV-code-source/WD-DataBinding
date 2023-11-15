@@ -1,0 +1,99 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD DataBinding
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Le projet a pour but de ...
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD DataBinding
+    internal_properties : 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
+    configuration_id : 15990323399152132807
+    type : 1
+    generation_name : WD DataBinding.exe
+    version :
+     version : VI200027
+     autoincrement_version : false
+    icon_filename : .\code.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAAblyhCaRoLf083qHcgHnOUQh2u5MGpr8iv48U79ls61tZL/pnaTjRTREH507BOLTNPA93IoMKkts4MGA==
+ elements :
+  identifier : 0x4acc553300134fc5
+  elements :
+   -
+     name : FEN_DataBinding_Classes
+     identifier : 0x491b1ec00004ba5a
+     internal_properties : CAAAAAgAAABzz6v/TDlxqrVIkjYqD51mexS25kzdLkKl7U9adql1o0HfDz7VKyYf0ky2AoJ+em5W3g==
+     physical_name : .\FEN_DataBinding_Classes.wdw
+     type : 2
+   -
+     name : TEST_PRINCIPALE
+     identifier : 0x4a0829e400007585
+     internal_properties : CAAAAAgAAACqoJL2NXI6ZWLxC4OnlSDh+p/JaW+QTER1Kb9qrJMBL81hi7JgoJGIS/XvyUmHc2Wvtw==
+     physical_name : .\TEST_PRINCIPALE.wxt
+     type : 17
+   -
+     name : CContact
+     identifier : 0x491b17aa00010b56
+     internal_properties : CAAAAAgAAAB+5FZKeSaOoa49R3/j0mChOllhuZmSIw2pELZzq2Qw2BAizu8k5N1UBzGrFZ1TL6Fr6w==
+     physical_name : .\CContact.wdc
+     type : 4
+   -
+     name : CListeContact
+     identifier : 0x491b1e10000309c1
+     internal_properties : CAAAAAgAAACkooyoF0zkh1Aj8ZVJoXazLG17o4WeM2GtK3dyqGc14x012+I2iof+/SeRbzepUUexsQ==
+     physical_name : .\CListeContact.wdc
+     type : 4
+   -
+     name : FEN_PRINCIPALE
+     identifier : 0x49185bb00001909d
+     internal_properties : CAAAAAgAAABh3VlNeiePoK8+TEzg2UsQwYLMrKqjpOitNwHg3FM7PcNJQQwf4dBJCDKsFJxULJxk7A==
+     physical_name : .\FEN_PRINCIPALE.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : ".\\WD Binding.sty\r\n.\\WD DataBinding.sty"
+ wb_style_sheet : .\WD Binding.wws
+ code_elements :
+  internal_properties : CAAAAAgAAABQ63RwWuf4x9rtmnvg7nHVm/0JBAVSvF5Tt0ecdO8df2PwBvv8DDeBJOBbXYUXfDxCz3CW/rPVT+zMgR1aE7M629xgw1fDi2KES5gpSQ==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD DataBinding
+     identifier : 0x4acc5533001a5052
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

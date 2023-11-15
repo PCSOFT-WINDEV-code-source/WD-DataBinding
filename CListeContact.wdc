@@ -1,0 +1,67 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : CListeContact
+ major_version : 28
+ minor_version : 0
+ type : 4
+ description : ""
+ subtype : 0
+class :
+ identifier : 0x191b1dfb0012b8d4
+ internal_properties : CAAAAAgAAAB2/vstTMCJbS/hlxjFxirSqKvCUuv8YxgpWyl7S3iA
+ code_elements :
+  type_code : 10
+  p_codes :
+   -
+     code : |1+
+      CListeContact est une classe
+      	ListeContact 	est un tableau de CContact dynamique
+      Fin
+      
+     type : 131072
+  procedures :
+   -
+     name : Constructeur
+     procedure_id : 1809072639194675412
+     type_code : 27
+     code : |1+
+      Procédure Constructeur()
+      
+     type : 589824
+   -
+     name : Destructeur
+     procedure_id : 1809072639194740948
+     type_code : 28
+     code : |1-
+      Procédure Destructeur()
+      
+      // Variables locales
+      clContact est un CContact dynamique
+      
+      // Libération de tous les contacts
+      Pour TOUT ELEMENT clContact DE ListeContact
+      	Liberer clContact
+      FIN
+     type : 655360
+   -
+     name : AjouterContact
+     procedure_id : 1809072965612331494
+     type_code : 12
+     code : |1-
+      Procédure AjouterContact(pclContact est un CContact dynamique)
+      
+      // Ajout dans le tableau
+      Ajoute(ListeContact,pclContact)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : CClasse1
+resources :
+ string_res :
+  identifier : 0x1fbce97a07c6ac3f
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ
